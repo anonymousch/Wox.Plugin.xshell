@@ -1,0 +1,12 @@
+{
+    "ID":"",
+    "ActionKeyword":"x",
+    "Name":"xshell_v2",
+    "Description":"launch xshell sessions",
+    "Author":"anonymous_ch",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/anonymousch/Wox.Plugin.xshell",
+    "ExecuteFileName":"main.py",
+    "IcoPath": "terminal.ico"
+}
