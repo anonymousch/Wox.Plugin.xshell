@@ -2,8 +2,7 @@ Inspired by [qianlifeng](https://github.com/qianlifeng) plugin.
 
 # Wox.Plugin.xshell
 
-##[Wox](https://github.com/qianlifeng/Wox) is very funny project.
-##Wox.Plugin.xshell
+###[Wox](https://github.com/qianlifeng/Wox) is very funny project.
 Wox.Plugin.xshell is Wox plugin to launch xshell session.
 
 ##Features
